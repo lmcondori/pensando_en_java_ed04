@@ -11,6 +11,7 @@ package pe.com.lumico.model;
  */
 public class Usuario {
     private Integer codigo;
+    private String usuario;
 
     public Usuario() {
     }
